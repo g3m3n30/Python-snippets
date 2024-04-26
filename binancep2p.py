@@ -9,7 +9,6 @@ Original file is located at
 import numpy as np
 import requests
 import pandas as pd
-import matplotlib as plt
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
