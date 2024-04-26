@@ -7,7 +7,10 @@ Original file is located at
     https://colab.research.google.com/github/g3m3n30/codes/blob/main/binancep2p.ipynb
 """
 
-pip install matplotlib
+"""pip install matplotlib
+    This does not work somehow.
+"""
+!pip install matplotlib
 
 import numpy as np
 import requests
