@@ -9,7 +9,9 @@ Original file is located at
 import numpy as np
 import requests
 import pandas as pd
-import matplotlib.pyplot as plt
+"""import matplotlib.pyplot as plt
+"""
+from matplotlib import pyplot as plt
 import seaborn as sns
 from datetime import datetime
 now = datetime.now()
